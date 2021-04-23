@@ -1,0 +1,10 @@
+li {
+    position: relative;
+    padding-top: 20px;
+}
+
+ul {
+    list-style-type: none;
+    justify-content: center;
+    margin-top: 100px;
+}
